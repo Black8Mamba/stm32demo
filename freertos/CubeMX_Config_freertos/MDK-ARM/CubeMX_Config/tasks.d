@@ -1,0 +1,16 @@
+cubemx_config\tasks.o: ..\freertos\src\tasks.c
+cubemx_config\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+cubemx_config\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+cubemx_config\tasks.o: ..\freertos\inc\FreeRTOS.h
+cubemx_config\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+cubemx_config\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+cubemx_config\tasks.o: ..\freertos\inc\FreeRTOSConfig.h
+cubemx_config\tasks.o: ..\freertos\inc\projdefs.h
+cubemx_config\tasks.o: ..\freertos\inc\portable.h
+cubemx_config\tasks.o: ..\freertos\inc\deprecated_definitions.h
+cubemx_config\tasks.o: ..\freertos\port\portmacro.h
+cubemx_config\tasks.o: ..\freertos\inc\mpu_wrappers.h
+cubemx_config\tasks.o: ..\freertos\inc\task.h
+cubemx_config\tasks.o: ..\freertos\inc\list.h
+cubemx_config\tasks.o: ..\freertos\inc\timers.h
+cubemx_config\tasks.o: ..\freertos\inc\stack_macros.h

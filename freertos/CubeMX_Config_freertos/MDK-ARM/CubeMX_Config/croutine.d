@@ -1,0 +1,13 @@
+cubemx_config\croutine.o: ..\freertos\src\croutine.c
+cubemx_config\croutine.o: ..\freertos\inc\FreeRTOS.h
+cubemx_config\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+cubemx_config\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+cubemx_config\croutine.o: ..\freertos\inc\FreeRTOSConfig.h
+cubemx_config\croutine.o: ..\freertos\inc\projdefs.h
+cubemx_config\croutine.o: ..\freertos\inc\portable.h
+cubemx_config\croutine.o: ..\freertos\inc\deprecated_definitions.h
+cubemx_config\croutine.o: ..\freertos\port\portmacro.h
+cubemx_config\croutine.o: ..\freertos\inc\mpu_wrappers.h
+cubemx_config\croutine.o: ..\freertos\inc\task.h
+cubemx_config\croutine.o: ..\freertos\inc\list.h
+cubemx_config\croutine.o: ..\freertos\inc\croutine.h

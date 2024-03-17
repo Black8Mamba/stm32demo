@@ -1,0 +1,14 @@
+cubemx_config\stream_buffer.o: ..\freertos\src\stream_buffer.c
+cubemx_config\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+cubemx_config\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+cubemx_config\stream_buffer.o: ..\freertos\inc\FreeRTOS.h
+cubemx_config\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+cubemx_config\stream_buffer.o: ..\freertos\inc\FreeRTOSConfig.h
+cubemx_config\stream_buffer.o: ..\freertos\inc\projdefs.h
+cubemx_config\stream_buffer.o: ..\freertos\inc\portable.h
+cubemx_config\stream_buffer.o: ..\freertos\inc\deprecated_definitions.h
+cubemx_config\stream_buffer.o: ..\freertos\port\portmacro.h
+cubemx_config\stream_buffer.o: ..\freertos\inc\mpu_wrappers.h
+cubemx_config\stream_buffer.o: ..\freertos\inc\task.h
+cubemx_config\stream_buffer.o: ..\freertos\inc\list.h
+cubemx_config\stream_buffer.o: ..\freertos\inc\stream_buffer.h

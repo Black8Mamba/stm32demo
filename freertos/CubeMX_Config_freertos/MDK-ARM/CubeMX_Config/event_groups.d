@@ -1,0 +1,15 @@
+cubemx_config\event_groups.o: ..\freertos\src\event_groups.c
+cubemx_config\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+cubemx_config\event_groups.o: ..\freertos\inc\FreeRTOS.h
+cubemx_config\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+cubemx_config\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+cubemx_config\event_groups.o: ..\freertos\inc\FreeRTOSConfig.h
+cubemx_config\event_groups.o: ..\freertos\inc\projdefs.h
+cubemx_config\event_groups.o: ..\freertos\inc\portable.h
+cubemx_config\event_groups.o: ..\freertos\inc\deprecated_definitions.h
+cubemx_config\event_groups.o: ..\freertos\port\portmacro.h
+cubemx_config\event_groups.o: ..\freertos\inc\mpu_wrappers.h
+cubemx_config\event_groups.o: ..\freertos\inc\task.h
+cubemx_config\event_groups.o: ..\freertos\inc\list.h
+cubemx_config\event_groups.o: ..\freertos\inc\timers.h
+cubemx_config\event_groups.o: ..\freertos\inc\event_groups.h
